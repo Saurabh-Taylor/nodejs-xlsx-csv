@@ -1,0 +1,17 @@
+{
+  "name": "node-js_csv-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-spectrum": "^2.0.0",
+    "csv-writer": "^1.6.0",
+    "xlsx": "^0.18.5"
+  }
+}
